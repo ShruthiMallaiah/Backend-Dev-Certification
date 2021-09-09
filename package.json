@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Shruthi",
+	"description": "This is learning from freecodecamp",
+	"keywords": [
+		"learning",
+		"freecodecamp"
+	],
+	"license": "BSD",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
